@@ -1,4 +1,1 @@
-
-
-trying to publih my repoitory
-typescript
+typescript practice assignment
