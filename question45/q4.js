@@ -1,8 +1,10 @@
-//Humaira parveen
-//date:21 March,2024
-//Question no.4 :- Famous Quote
-//Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. 
+"use strict";
+//parveenhumaira
+//date: 12 June, 2024
+Object.defineProperty(exports, "__esModule", { value: true });
+//Famous Quote: Find a quote from a famous person you admire.
+//Print the quote and the name of its author. 
 //Your output should look something like the following, including the quotation marks:
 //Albert Einstein once said, “A person who never made a mistake never tried anything new.”
-var author = "Albert Einstein";
-console.log("".concat(author, " once said, \"A person who never made a mistake never tried anything new.\""));
+let author = "Albert Einstein";
+console.log(`${author} once said, "A person who never made a mistake never tried anything new."`);
